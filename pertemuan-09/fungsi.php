@@ -37,4 +37,3 @@ function tampilkankontak($conf, $arr)
     }
     return $html;
 }
-?>

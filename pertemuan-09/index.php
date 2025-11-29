@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once __DIR__ . '/fungsi.php';
-  ?>
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -130,20 +130,20 @@ require_once __DIR__ . '/fungsi.php';
         <button type="submit">Kirim</button>
         <button type="reset">Batal</button>
       </form>
-<?php
-       $arrkontak = $_SESSION["kontak"] ?? [];
+      <?php
+      $arrkontak = $_SESSION["kontak"] ?? [];
 
-    $fieldkontak = [
-      "nama" => ["label" => "Nama:", "suffix" => ""],
-      "email" => ["label" => "email:", "suffix" => ""],
-      "pesan" => ["label" => "pesan:", "suffix" => ""],
-    ];
-    ?>
+      $fieldkontak = [
+        "nama" => ["label" => "Nama:", "suffix" => ""],
+        "email" => ["label" => "email:", "suffix" => ""],
+        "pesan" => ["label" => "pesan:", "suffix" => ""],
+      ];
+      ?>
 
-        <br>
-        <hr>
-        <h2>Yang menghubungi kami</h2>
-    <?= tampilkankontak($fieldkontak, $arrkontak) ?>
+      <br>
+      <hr>
+      <h2>Yang menghubungi kami</h2>
+      <?= tampilkankontak($fieldkontak, $arrkontak) ?>
 
 
 
