@@ -111,7 +111,7 @@ $fieldConfig = [
           <input type="text" id="txtNmAdik" name="txtNmAdik" placeholder="Masukkan Nama Adik" required>
         </label>
 
-        <button type="submit">Kirim</button>
+        <button type="submit">Kirim </button>
         <button type="reset">Batal</button>
       </form>
 
@@ -119,16 +119,14 @@ $fieldConfig = [
 
     <section id="about">
       <h2>Tentang Saya</h2>
-      <p><strong>NIM:</strong> <?= $txtNim ?></p>
-      <p><strong>Nama Lengkap:</strong> <?= $txtNmLengkap ?> &#128526;</p>
-      <p><strong>Tempat Lahir:</strong> <?= $txtT4Lhr ?></p>
-      <p><strong>Tanggal Lahir:</strong> <?= $txtTglLhr ?></p>
-      <p><strong>Hobi:</strong> <?= $txtHobi ?> &#127926;</p>
-      <p><strong>Pasangan:</strong> <?= $txtPasangan ?> &hearts;</p>
-      <p><strong>Pekerjaan:</strong> <?= $txtKerja ?> &copy; 2025</p>
-      <p><strong>Nama Orang Tua:</strong> <?= $txtNmOrtu ?></p>
-      <p><strong>Nama Kakak:</strong> <?= $txtNmKakak ?></p>
-      <p><strong>Nama Adik:</strong> <?= $txtNmAdik ?></p>
+     <?php foreach ($fieldconfig as $kunci => $metadata): ?>
+      <p>
+        <strong><?= $metadata["label"] ?></strong>
+        <?= htmlspecialchars($biodata[$kunci]) ?? "") ?>
+        <? $metadata["suffix"] ?>
+     </p>
+     <?php endforeach; ?>
+
     </section>
 
     <section id="contact">
