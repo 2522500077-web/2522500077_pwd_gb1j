@@ -25,4 +25,5 @@
   <li>menambkan require </li>
   <li>menambkan array di index </li>
   <li>membuat function kontak </li>
+  <li>membuat tampilan kontak di index.php </li>
 </ol>
