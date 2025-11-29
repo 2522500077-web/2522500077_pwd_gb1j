@@ -24,4 +24,5 @@
   <li>menambkan tampilan mode data </li>
   <li>menambkan require </li>
   <li>menambkan array di index </li>
+  <li>membuat function kontak </li>
 </ol>
