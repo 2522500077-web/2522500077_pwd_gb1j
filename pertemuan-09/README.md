@@ -20,4 +20,5 @@
   <li>membuat file fungsi.php</li>
   <li>membuat fungsi bersihkan di fungsi.php</li>
   <li>membuat file fungsi php </li>
+  <li>menambhkan forench </li>
 </ol>
