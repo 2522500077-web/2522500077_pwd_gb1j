@@ -18,4 +18,5 @@
   <li>membuat sesion suffix di index.php</li>
   <li>membuat sesion foreach di index.php</li>
   <li>membuat file fungsi.php</li>
+  <li>membuat fungsi bersihkan di fungsi.php</li>
 </ol>
