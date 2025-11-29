@@ -21,4 +21,5 @@
   <li>membuat fungsi bersihkan di fungsi.php</li>
   <li>membuat file fungsi php </li>
   <li>menambhkan forench </li>
+  <li>menambkan tampilan mode data </li>
 </ol>
