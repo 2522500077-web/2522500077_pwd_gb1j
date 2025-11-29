@@ -23,4 +23,5 @@
   <li>menambhkan forench </li>
   <li>menambkan tampilan mode data </li>
   <li>menambkan require </li>
+  <li>menambkan array di index </li>
 </ol>
