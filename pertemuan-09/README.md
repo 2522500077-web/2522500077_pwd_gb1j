@@ -22,4 +22,5 @@
   <li>membuat file fungsi php </li>
   <li>menambhkan forench </li>
   <li>menambkan tampilan mode data </li>
+  <li>menambkan require </li>
 </ol>
