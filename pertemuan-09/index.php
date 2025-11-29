@@ -119,9 +119,7 @@ $fieldConfig = [
 
     <section id="about">
       <h2>Tentang Saya</h2>
-
-    <?=tampilkanBiodata($fieldConfig,$biodata) ?>
-
+      <?= tampilkanBiodata($fieldConfig, $biodata) ?>
     </section>
 
     <section id="contact">
