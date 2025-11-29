@@ -13,4 +13,5 @@
   <li>echo session ke nilai label section contact selesai</li>
   <li>copy item</li>
   <li>tes</li>
+  <li>membuat variabel aray biodata di proses.php</li>
 </ol>
