@@ -17,4 +17,5 @@
   <li>membuat sesion aray biodata di proses.php</li>
   <li>membuat sesion suffix di index.php</li>
   <li>membuat sesion foreach di index.php</li>
+  <li>membuat file fungsi.php</li>
 </ol>
