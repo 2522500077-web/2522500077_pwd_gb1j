@@ -1,4 +1,4 @@
 # pertemuan-10
 
 <ol>
-  <li>tes</li>
+  <li>copy item yang diberikan</li>
