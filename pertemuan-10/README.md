@@ -6,3 +6,4 @@
   <li>membuat koneksi php dengan database</li>
   <li>membuat database db_pwd2025 php my admin</li>
   <li>membuat database tabel menu</li>
+  <li>menambah file php</li>
