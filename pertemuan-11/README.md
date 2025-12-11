@@ -6,3 +6,4 @@
 <li>menampilkan flash message</li>
 <li>cek request method</li>
 <li>ambil data $post</li>
+<li>validasi di proses.php</li>
