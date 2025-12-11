@@ -5,3 +5,4 @@
 <li>menambah penangkap pesan</li>
 <li>menampilkan flash message</li>
 <li>cek request method</li>
+<li>ambil data $post</li>
