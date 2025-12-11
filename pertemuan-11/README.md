@@ -3,3 +3,4 @@
 <li>update fungsi.php</li>
 <li>update index.php</li>
 <li>menambah penangkap pesan</li>
+<li>menampilkan flash message</li>
