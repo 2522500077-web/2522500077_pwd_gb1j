@@ -9,3 +9,4 @@
   <li>menambah file read.php</li>
   <li>update pertemuan 10</li>
   <li>membuat 3 record</li>
+  <li>duplicat read ke read_inc</li>
