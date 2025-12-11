@@ -8,3 +8,4 @@
   <li>membuat database tabel menu</li>
   <li>menambah file read.php</li>
   <li>update pertemuan 10</li>
+  <li>membuat 3 record</li>
