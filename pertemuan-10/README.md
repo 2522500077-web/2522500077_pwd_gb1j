@@ -12,3 +12,4 @@
   <li>duplicat read ke read_inc</li>
   <li>include read inc index.php</li>
   <li>form contact read inc</li>
+  <li>beres</li>
