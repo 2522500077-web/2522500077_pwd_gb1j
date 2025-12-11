@@ -143,7 +143,7 @@ require_once __DIR__ . '/fungsi.php';
       <br>
       <hr>
       <h2>Yang menghubungi kami</h2>
-      <?= tampilkankontak($fieldkontak, $arrkontak) ?>
+      <?= tampilkanBiodata($fieldContak, $contak) ?>
 
 
 
