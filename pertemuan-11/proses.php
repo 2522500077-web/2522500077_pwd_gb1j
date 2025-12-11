@@ -1,5 +1,18 @@
 <?php
 session_start();
+include 'koneksi.php'; // pastikan file ini ada
+
+function bersihkan($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data, ENT_QUOTES, 'UTF-8');
+    return $data;
+}
+
+function redirect_ke($url) {
+    header("Location: $url");
+    exit;
+}
 
 $arrContact = [
   "nama" => $_POST["txtNama"] ?? "",
