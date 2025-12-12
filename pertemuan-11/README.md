@@ -8,3 +8,4 @@
 <li>ambil data $post</li>
 <li>validasi di proses.php</li>
 <li>insert tbl tamu</li>
+<li>kelar</li>
