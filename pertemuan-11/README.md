@@ -14,3 +14,4 @@
 <li>menambah nomor urut di kolom di read php</li>
 <li>menambah validasi panjang</li>
 <li>menambah input captcha</li>
+<li>menambah field baru di tbl tamu</li>
