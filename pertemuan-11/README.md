@@ -12,3 +12,4 @@
 <li>chek data masuk di read_inc</li>
 <li>menguji form kontak</li>
 <li>menambah nomor urut di kolom di read php</li>
+<li>menambah validasi panjang</li>
