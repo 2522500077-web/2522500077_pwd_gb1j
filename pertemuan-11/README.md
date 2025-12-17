@@ -9,3 +9,4 @@
 <li>validasi di proses.php</li>
 <li>insert tbl tamu</li>
 <li>menguji form kontak</li>
+<li>chek data masuk di read_inc</li>
