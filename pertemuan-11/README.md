@@ -15,3 +15,4 @@
 <li>menambah validasi panjang</li>
 <li>menambah input captcha</li>
 <li>menambah field baru di tbl tamu</li>
+<li>menambah kolom created setelah kolom pesan untuk menampilkan TGL DAN WKTU PSN</li>
