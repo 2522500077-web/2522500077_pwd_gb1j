@@ -3,4 +3,5 @@
 <li>buat link edit yang aman</li>
 <li>menambah penampilan flas di read php</li>
 <li>membuat file edit.php</li>
+<li>membuat file proses update.php</li>
 
